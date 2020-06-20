@@ -18,3 +18,16 @@ On Windows it's "C:\Program Files", on Linux it's "/usr/lib"
 cmake .
 ```
 4. Compile the code with your C++ compiler and the generated proyect.
+
+## Controls
+
+* **W**: move Up
+* **S**: move down
+* **A**: move left
+* **D**: move right
+* **V**: increases samples per pixel
+* **C**: decreases samples per pixel
+* **Z**: increases max iterations
+* **X**: decreases max iterations
+* **1**: change colormap to COLORMAP_1  (image1.png)
+* **2**: change colormap to COLORMAP_2  (image2.png)

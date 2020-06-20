@@ -1,6 +1,9 @@
 # Simple-Mandelbrot-explorer
 A minimalist Mandelbrot set explorer using SFML.
 
+![N|Solid](/images/image1.png)
+![N|Solid](/images/image2.png)
+
 ## Installation
 
 Just clone or download this repo. You'll need to install SFML and Cmake.

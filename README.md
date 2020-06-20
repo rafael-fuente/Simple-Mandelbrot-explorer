@@ -6,14 +6,14 @@ A minimalist Mandelbrot set explorer using SFML.
 
 ## Installation
 
-Just clone or download this repo. You'll need to install SFML and Cmake.
+Just clone or download this repo. You'll need to install SFML and CMake.
 
 1. Install SFML from here: https://www.sfml-dev.org/download/sfml/2.5.1/ and put it on an standard installation path:
 On Windows it's "C:\Program Files", on Linux it's "/usr/lib"
 
 2. Install Cmake from here: https://cmake.org/download/
 
-3. On the repository folder, run from the command prompt: (or use the Cmake GUI selecting your C++ compiler and where to build the binaries)
+3. On the repository folder, run from the command prompt: (or use the CMake GUI selecting your C++ compiler and where to build the binaries)
 ```
 cmake .
 ```

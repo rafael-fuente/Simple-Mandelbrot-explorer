@@ -165,8 +165,8 @@ int main() {
 						int n = 0;
 
 						//antialiasing
-						double dx = (random_double()) * x_mandelbrot_size / (IMAGE_WIDTH);
-						double dy = (random_double()) * y_mandelbrot_size / (IMAGE_HEIGHT);
+						double dx = (random_double()) * xStep;
+						double dy = (random_double()) * yStep;
 
 						do
 						{
